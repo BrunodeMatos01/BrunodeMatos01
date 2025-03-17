@@ -32,4 +32,5 @@
 
 <!-- Skills: Programming Languages --> 
   <div style="flex-basis: 48%;">
-    <img src="https://skillicons.dev/icons?i=java,flutter,dart,lua,mysql,figma,git" />
+    <img src="https://skillicons.dev/icons?i=cs,java,mysql,figma,git" /> <br>
+    <img src="https://skillicons.dev/icons?i=angular,css,html,js" />
