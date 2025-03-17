@@ -36,4 +36,4 @@
     <h2>Front-end</h2>
     <img src="https://skillicons.dev/icons?i=css,html,figma" />
     <hr>
-    <img src="https://skillicons.dev/icons?i=eclipse, idea,visualstudio,vscode,postman" />
+    <img src="https://skillicons.dev/icons?i=eclipse,idea,visualstudio,vscode,postman" />
