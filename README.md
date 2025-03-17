@@ -29,10 +29,11 @@
 ![VariableBee GitHub stats](https://github-readme-stats.vercel.app/api?username=BrunodeMatos01&show_icons=true&theme=radical)
 
 ## 🔥 Skills
-
 <!-- Skills: Programming Languages --> 
   <div style="flex-basis: 48%;">
     <h2>Back-end</h2>
-    <img src="https://skillicons.dev/icons?i=cs,java,mysql,js,angular" /> <br>
+    <img src="https://skillicons.dev/icons?i=cs,java,mysql,js,angular,git" /> <br>
     <h2>Front-end</h2>
-    <img src="https://skillicons.dev/icons?i=css,html,figma,git" />
+    <img src="https://skillicons.dev/icons?i=css,html,figma" />
+    <hr>
+    <img src="https://skillicons.dev/icons?i=eclipse, idea, visualstudio, vscode, postman" />
