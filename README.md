@@ -32,5 +32,7 @@
 
 <!-- Skills: Programming Languages --> 
   <div style="flex-basis: 48%;">
-    <img src="https://skillicons.dev/icons?i=cs,java,mysql,figma,git" /> <br>
-    <img src="https://skillicons.dev/icons?i=angular,css,html,js" />
+    <h2>Back-end</h2>
+    <img src="https://skillicons.dev/icons?i=cs,java,mysql,j" /> <br>
+    <h2>Front-end</h2>
+    <img src="https://skillicons.dev/icons?i=angular,css,html,figma,git" />
