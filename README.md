@@ -30,7 +30,7 @@
 
 ## 🔥 Skills
 <!-- Skills: Programming Languages --> 
-  <div style="flex-basis: 48%;">
+  <div ">
     <h2>Back-end</h2>
     <img src="https://skillicons.dev/icons?i=cs,java,mysql,js,angular,git" /> <br>
     <h2>Front-end</h2>
