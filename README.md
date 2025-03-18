@@ -21,29 +21,20 @@
 
   - ⚡ I enjoy reading, whether it's a good book, as well as watching movies and playing games! I believe that our personal interests contribute to a more refined perception of things and problem-solving.
 </details>
-<hr>
-
-<!-- Links -->
 <div style="display: flex; justify-content: center; align-items: center; height: 100vh;">
   <a href="https://br.linkedin.com/in/bruno-de-matos-016a06305">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 </div>
+<hr>
 
-
+<!-- Links -->
   <!-- GitHub Stats and Top Languages (side by side) -->
-<div style="display: flex; justify-content: center; gap: 20px; flex-direction: row; width: 100%">
-  
-  <div>
+<div style="display: flex; aling-itens: center; margin: 20px">
     <!-- GithubStats -->
     <img src="https://github-readme-stats.vercel.app/api?username=BrunodeMatos01&show_icons=true&theme=radical" alt="GitHub Stats">
-  </div>
-  
-  <div>
     <!-- Linguagens mais usadas -->
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunodeMatos01&layout=compact&theme=radical" alt="Top Languages">
-  </div>
-  
 </div>
 <hr>
 
