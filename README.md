@@ -7,8 +7,8 @@
 <h1 align="center">Hi there 👋, I'm Bruno de Matos!</h1>
 
 <p align="center">
-  I'm an **Information Systems student at FURB** with a passion for crafting efficient software solutions.
-  Currently, I'm gaining hands-on experience in **data analysis and web development**,
+  I'm an <strong>Information Systems student at FURB</strong>strong> with a passion for crafting efficient software solutions.
+  Currently, I'm gaining hands-on experience in and web development,
   focusing on scalable architectures and robust applications.
 </p>
 
