@@ -29,7 +29,7 @@
 
 ### 💻 Programming Languages & Databases
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cs,java,js,angular,html,css,mysql,oracle,git" />
+  <img src="https://skillicons.dev/icons?i=cs,java,js,angular,html,css,mysql,git" />
 </p>
 
 ### 🛠️ Development Tools & Design
