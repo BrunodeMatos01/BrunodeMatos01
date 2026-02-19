@@ -7,10 +7,6 @@
 <h1 align="center">Hi there 👋, I'm Bruno de Matos!</h1>
 
 <p align="center">
-  <img src="https://github.com/adam-p/markdown-here/raw/master/images/icon48.png" alt="Profile Picture" width="150" style="border-radius:50%;">
-</p>
-
-<p align="center">
   I'm an **Information Systems student at FURB** with a passion for crafting efficient software solutions.
   Currently, I'm gaining hands-on experience in **data analysis and web development**,
   focusing on scalable architectures and robust applications.
@@ -37,15 +33,6 @@
 ### 🛠️ Development Tools & Design
 <p align="left">
   <img src="https://skillicons.dev/icons?i=vscode,visualstudio,idea,eclipse,postman,figma" />
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO-AQUI&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_title=true&layout=compact" alt="Bruno's GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO-AQUI&layout=compact&langs_count=7&theme=dark&hide_title=true" alt="Top Languages" />
 </p>
 
 ---
