@@ -17,8 +17,10 @@
 ## 🚀 About Me
 
 - 🎓 **Education:** Bachelor's Degree in Information Systems (FURB).
-- 💼 **Current Focus:** Proficient in **Power BI and SQL Oracle**, actively working with data analysis and web application development.
-- 💡 **Interests:** Beyond coding, I enjoy diving into good books, exploring new films, and strategic gaming. I believe these diverse interests sharpen my perception and problem-solving skills in technology.
+- 💼 **Professional Experience:**
+  - **Data Analysis:** Actively working with **Power BI and SQL Oracle** to build dashboards and deliver data-driven insights.
+  - **Freelance Web Developer:** I design and develop custom, responsive websites from scratch for local businesses (such as *Texport Importação*). I manage the entire end-to-end process—from UI/UX design and layout creation to        front-end implementation—ensuring a strong and modern digital presence for my clients.
+- 💡 **Interests:** Beyond coding, I enjoy reading good books, exploring new films, and strategic gaming. I believe these diverse interests sharpen my perception and problem-solving skills in technology.
 - 🌍 **Location:** Blumenau, Santa Catarina, Brazil.
 
 ---
